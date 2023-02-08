@@ -1,2 +1,2 @@
 Region	AD Group Name	XD Delivery Group Name	XD Controller
-EU	AVC-QS-POOL-AGCSEMEA-DCW10-SACPilot	2_TEST_Win10_SAC_22H2_Dedicated	AALXNDFRK101
+EU	AD_GROUPNAME	XD_DeliveryGroupName	XD_Controller
